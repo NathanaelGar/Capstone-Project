@@ -1,9 +1,10 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
+import AppBar from "@material-ui/core/AppBar";
 
 class App extends Component {
   render() {
-    return <h1>OOHHHH B)</h1>;
+    return <div></div>;
   }
 }
 
